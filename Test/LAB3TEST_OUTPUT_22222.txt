@@ -1,0 +1,13 @@
+22222
+Labs: Lab 1
+17/20
+Labs: Lab 2
+16/20
+Midterm: Midterm
+23/32
+Final: Final Exam
+46/50
+Labs: 82.5
+Midterm: 71.875
+Final: 92.0
+Percentage: 83.11250000000001
